@@ -232,7 +232,7 @@ protobuf.load(GetResourcePath(GetCurrentResourceName()) + "/rline.proto", functi
 								b: 0
 							}
 						},
-						serverSandbox: 0xD656C677,
+						servermythic: 0xD656C677,
 						sessionType: 3,
 						transferId: {
 							value: {

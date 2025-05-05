@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a bug report for SandboxRP
+about: Create a bug report for mythicRP
 title: "[BUG]"
 labels: bug
 assignees: ''
